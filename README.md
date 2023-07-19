@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there! 👋🏼 I'm Kass 🤩
 
 <!--
 **kassrojas/kassrojas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![My logo]([http://url/to/img.png](https://drive.google.com/file/d/1bTOxQt_hBbahWBU_enD_flSqob48lFIs/view?usp=drive_link)https://drive.google.com/file/d/1bTOxQt_hBbahWBU_enD_flSqob48lFIs/view?usp=drive_link)
