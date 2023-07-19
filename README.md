@@ -1,18 +1,18 @@
-### Hey there! 👋🏼 I'm Kass 🤩
+![kass-header](https://github.com/kassrojas/kassrojas/assets/117785435/747376a0-1fe0-469d-957d-f9a158ccd576)
 
-<!--
-**kassrojas/kassrojas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, friend 👋🏼 I'm so glad you're here!
 
-Here are some ideas to get you started:
+This is what I've been up to:
+- 🧠 Deep learning and praciticing JavaScript daily 
+- 💭 Problem solving coding challenges
+- 🔎 Actively looking for junior developer opportunties
+- 🏋🏻 Finding fun ways to challenge myself physically
+- 🌱 Tending to my indoor plants and watching them bloom
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+And these are some things I plan do soon:
+- 📐 Adapt my JS skills to learn Angular
+- 👷🏻‍♀️ Continue to build applications that highlight my skills
+- 👩🏻‍💻 Work for a company that welcomes critical thinkers
 
-![My logo]([http://url/to/img.png](https://drive.google.com/file/d/1bTOxQt_hBbahWBU_enD_flSqob48lFIs/view?usp=drive_link)https://drive.google.com/file/d/1bTOxQt_hBbahWBU_enD_flSqob48lFIs/view?usp=drive_link)
+  
+
