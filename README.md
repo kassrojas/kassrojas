@@ -12,7 +12,7 @@ This is what I've been up to:
 And these are some things I plan do soon:
 - 📐 Adapt my JS skills to learn Angular
 - 👷🏻‍♀️ Continue to build applications that highlight my skills
-- 👩🏻‍💻 Work for a company that welcomes critical thinkers
+- 👩🏻‍💻 Work for a company that welcomes hungry, problem solvers
 
   
 
