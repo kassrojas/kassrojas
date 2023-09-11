@@ -10,7 +10,7 @@ This is what I've been up to:
 - 🌱 Tending to my indoor plants and watching them bloom
 
 And these are some things I plan do soon:
-- 📐 Adapt my JS skills to learn Angular
+- 📐 Adapt my OOP skills to learn Python for BackEnd Development
 - 👷🏻‍♀️ Continue to build applications that highlight my skills
 - 👩🏻‍💻 Work for a company that welcomes hungry, problem solvers
 
