@@ -3,15 +3,15 @@
 ## Hi, friend 👋🏼 I'm so glad you're here!
 
 This is what I've been up to:
-- 🧠 Deep learning and praciticing JavaScript daily 
+- 🧠 Deep learning and praciticing Python daily 
 - 💭 Problem solving coding challenges
-- 🔎 Actively looking for junior developer opportunties
+- 🔎 Actively looking for Software Engineer opportunities
 - 🏋🏻 Finding fun ways to challenge myself physically
 - 🌱 Tending to my indoor plants and watching them bloom
 
 And these are some things I plan do soon:
-- 📐 Adapt my OOP skills to learn Python for BackEnd Development
-- 👷🏻‍♀️ Continue to build applications that highlight my skills
+- 📐 Adapt my Python skills to build APIs
+- 👷🏻‍♀️ Continue to build on applications that highlight my skills
 - 👩🏻‍💻 Work for a company that welcomes hungry, problem solvers
 
   
