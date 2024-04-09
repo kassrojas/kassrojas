@@ -1,5 +1,6 @@
 ```
 <Kass
+  lastName=["Rojas", "Lazette"]
   title="Software Engineer"
   technologies={[
     "React",  
