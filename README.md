@@ -1,5 +1,3 @@
-![kass-header](https://github.com/kassrojas/kassrojas/assets/117785435/747376a0-1fe0-469d-957d-f9a158ccd576)
-
 ```
 <Kass
   title="Software Engineer"
