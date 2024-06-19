@@ -2,13 +2,13 @@
 <Kass
   lastName=["Rojas", "Lazette"]
   title="Software Engineer"
-  technologies={[
+  technologies=[
     "React",  
     "Remix", 
     "TypeScript", 
     "TailwindCSS", 
     "and more..."
-  ]}
+  ]
   hobbies={() => {
     liftWeights()
     tendToPlants()
