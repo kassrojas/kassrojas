@@ -7,7 +7,7 @@
     "Remix", 
     "TypeScript", 
     "TailwindCSS", 
-    "and more..."
+    ...more
   ]
   hobbies={() => {
     liftWeights()
