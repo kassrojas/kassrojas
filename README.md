@@ -1,20 +1,18 @@
 ```
 <Kass
+  className="organized team-player self-starter"
   lastName=["Rojas", "Lazette"]
   title="Software Engineer"
-  technologies=[
-    "React",  
-    "Remix", 
-    "TypeScript", 
-    "TailwindCSS", 
-    ...more
-  ]
+  technologies={
+    frameworks: ["React","Remix"],
+    languages: ["Javascript", "Typescript"],
+    uxDesign: ["Figma", "TailwindCSS", "ShadCn UI Library", ...rest]
+  }
   hobbies={() => {
     liftWeights()
     tendToPlants()
     timeWithLovedOnes()
   }}
-  className="organized team-player self-starter"
 />
 ```
   
