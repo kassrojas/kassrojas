@@ -1,6 +1,6 @@
 ```
 <Kass
-  className="organized team-player self-starter"
+  className="organized adaptable team-player self-starter"
   lastName=["Rojas", "Lazette"]
   title="Software Engineer"
   technologies={
@@ -21,3 +21,5 @@ I wrote my personal README as a React component because I thought,
 "Now my documentation is 'CLASSy' and gives me 'PROPS'!"
 
 ** ba-dum-tss **
+
+If you liked my joke and are looking for a react developer, let's chat!
