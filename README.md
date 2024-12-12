@@ -1,6 +1,6 @@
 ```
 <Kass
-  className="organized adaptable team-player self-starter"
+  className="organized ambitious adaptable team-player"
   lastName=["Rojas", "Lazette"]
   title="Software Engineer"
   technologies={
