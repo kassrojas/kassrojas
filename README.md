@@ -22,4 +22,10 @@ I wrote my personal README as a React component because I thought,
 
 ** ba-dum-tss **
 
-If you liked my joke and are looking for a react developer, let's chat!
+If you liked my joke and are looking for a react developer, let's chat:
+
+🔗 [Kass LinkedIn](https://www.linkedin.com/in/ikassandrarojas/)
+
+🦋 [kasskodes.bsky.social](https://bsky.app/profile/kasskodes.bsky.social)
+
+💼 [Kass Portfolio](https://kassrojas.github.io/kass-portfolio-react/)
