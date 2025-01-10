@@ -1,8 +1,8 @@
 ```
 <Kass
-  className="organized ambitious adaptable team-player"
-  lastName=["Rojas", "Lazette"]
-  title="Software Engineer"
+  description={"organized ambitious adaptable team-player"}
+  lastName={["Rojas", "Lazette"]}
+  title={"Software Engineer"}
   technologies={
     frameworks: ["React","Remix"],
     languages: ["Javascript", "Typescript"],
