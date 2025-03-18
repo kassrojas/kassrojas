@@ -16,9 +16,9 @@
 />
 ```
   
-I wrote my personal README as a React component because I thought,
+I wrote my personal [README](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes) as a [React](https://react.dev/) component because I thought,
 
-"Now my documentation is 'CLASSy' and gives me 'PROPS'!"
+"Now my documentation is '[CLASSy](https://react.dev/learn#adding-styles)' and gives me '[PROPS](https://react.dev/learn/passing-props-to-a-component)'!"
 
 ** ba-dum-tss **
 
